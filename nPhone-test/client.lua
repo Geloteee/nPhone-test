@@ -1,4 +1,4 @@
-local testImage = 'https://dunb17ur4ymx4.cloudfront.net/webstore/logos/7796102248647a8b012db89e4e700f4e4de81ecc.png'
+local testImage = 'https://cdn.discordapp.com/attachments/1178375780867264594/1178375812383264788/nuvil_logo.png'
 
 RegisterCommand('SetPhoneDisplayStatus', function()
     exports["nPhone"]:SetPhoneDisplayStatus(true)
